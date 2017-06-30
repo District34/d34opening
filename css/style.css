@@ -713,7 +713,7 @@ p {
 	padding-bottom: 17px;
 	padding-left: 7px;
 	padding-right: 7px;
-	color: #FFFFFF;
+	color: #e3e448;
 
 	-webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
@@ -724,7 +724,7 @@ p {
     opacity: .9;
 }
 .home-bottom a {
-    font-size: 22px;
+    font-size: 50px;
 }
 
 #multi-page, #one-page {
