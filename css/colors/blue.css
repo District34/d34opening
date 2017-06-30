@@ -1,28 +1,28 @@
 ::-moz-selection {
-    background: #2ac5ee;
+    background: #e3e448;
 }
 ::selection {
-	background: #2ac5ee;
+	background: #e3e448;
 }
 
 .backgrounds {
-   background: #2ac5ee;
+   background: #e3e448;
 }
 .post-time-section .post-month .month {
-	background-color: #2ac5ee;
+	background-color: #e3e448;
 }
 .search-button {
-    background: #2ac5ee;
+    background: #e3e448;
 }
 
 .pricing_table .planbox.highlight .prices:before {
-	border-top: 15px solid #2ac5ee;
+	border-top: 15px solid #e3e448;
 }
 .pricing_table .planbox.highlight .prices a {
-	color: #2ac5ee;
+	color: #e3e448;
 }
 .pricing_table .planbox .prices a:hover {
-	background: #2ac5ee;
+	background: #e3e448;
 }
 .btn-home a,
 #filters li span.active,
@@ -53,7 +53,7 @@
 .cbp-l-loadMore-button .cbp-l-loadMore-button-link:hover,
 .pager li>a:hover, .pager li>a:focus,
 .pricing_table .planbox.highlight .prices {
-	background: #2ac5ee;
+	background: #e3e448;
 }
 
 
@@ -104,17 +104,17 @@ footer #social-icons li a:hover,
 #notification .success,
 .section-links a:hover,
 .blog-post-title a:hover {
-	color: #2ac5ee;
+	color: #e3e448;
 }
 
 .cbp-l-filters-alignRight .cbp-filter-counter:before,
 .cbp-l-filters-alignCenter .cbp-filter-counter:before,
 .cbp-l-filters-button .cbp-filter-counter:before {
-	border-top: 4px solid #2ac5ee;
+	border-top: 4px solid #e3e448;
 }
 .cbp-l-loadMore-button .cbp-l-loadMore-button-link {
-	border: 1px solid #2ac5ee;
-	color: #2ac5ee;
+	border: 1px solid #e3e448;
+	color: #e3e448;
 }
 .btn-primary-full {
     box-shadow: 0 -3px rgba(0, 0, 0, 0.4) inset;
@@ -125,10 +125,10 @@ footer #social-icons li a:hover,
     background-color: rgba(178, 204, 2, 0.9);
 }
 .label-primary:after {
-    border-bottom-color: #2ac5ee;
+    border-bottom-color: #e3e448;
 }
 .mega-menu .dropdown-menu {
-    border-bottom: 2px solid #2ac5ee;
+    border-bottom: 2px solid #e3e448;
     border-top: none!important;
 }
 
@@ -136,10 +136,10 @@ footer #social-icons li a:hover,
 .btn-effect:focus,
 .btn-effect:active,
 .btn-effect:after {
-    background: #2ac5ee;
+    background: #e3e448;
 }
 .btn-effect:hover {
     background: none;
-    border-color: #2ac5ee;
+    border-color: #e3e448;
     transition: all 0.4s;
 }
